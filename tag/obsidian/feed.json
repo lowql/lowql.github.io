@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "null • All posts by \"obsidian\" tag",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/02/03/Obsidian-Snippet-%E5%88%9D%E6%8E%A2/",
+            "url": "http://example.com/2023/02/03/Obsidian-Snippet-%E5%88%9D%E6%8E%A2/",
+            "title": "Obsidian Snippet 初探",
+            "date_published": "2023-02-02T20:36:44.000Z",
+            "content_html": "<p>網路上的別人分享的 Snippet 會因為 Obsidian 本身版本的更新，導致原先的 CSS 效果跑掉<br>\n需要通過  <code>Ctrl+Shift+i</code>  進入開發者工具中 選取目前相對的元素 進行微調。</p>\n",
+            "tags": [
+                "Obsidian",
+                "CSS"
+            ]
+        }
+    ]
+}
